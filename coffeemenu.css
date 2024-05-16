@@ -38,7 +38,7 @@ body {
   }
   hr {
     height: 2px;
-    background-color: brown;
+    background-image:url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg) ;
     border-color: brown;
   }
   
